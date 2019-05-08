@@ -1,0 +1,1 @@
+Note: The user might have to re-mex the necessary files in order to run the NPIS method, depending on their operating system. There is a file mex.m included that will automatically mex the necessary files if needed.
