@@ -1,1 +1,2 @@
 Note: The user might have to re-mex the necessary files in order to run the NPIS method, depending on their operating system. There is a file mex.m included that will automatically mex the necessary files if needed.
+We recommend downloading all of the contents of this folder (@kde), and then setting up the kde toolbox according to what is presented in the following website (https://www.ics.uci.edu/~ihler/code/kde.html) to avoid any issues with mex compatability.
