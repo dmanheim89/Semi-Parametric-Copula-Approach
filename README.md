@@ -11,4 +11,4 @@ Wei, P., Lu, Z., Song, J., 2014. Moment-Independent Sensitivity Analysis Using C
 
 Derennes, P., Morio, J., Simatos, F., 2018. A nonparametric importance sampling estimator for moment independent importance measures. Reliability Engineering & System Safety. https://doi.org/10.1016/j.ress.2018.02.009
 
-
+To run any of the codes, simply download the folders and place them on MATLAB's current path. The matlab files "run_" are the scripts that should be run, where the results are automatically saved after execution. Please email Derek Manheim (dmanheim@uci.edu) if any issues are encountered. 
